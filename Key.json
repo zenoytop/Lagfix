@@ -1,10 +1,10 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "Speed-X Update!",
-  "Description": "Update! To get new Features",
+  "Title": "ZENOYTOP TEST",
+  "Description": "If you see this, it's hitting MY server",
   "MainTextButton": "Update? Click here",
   "Cancelable": "false",
   "CancelButtonText": "Cancel",
-  "DownloadLink": "https://YOUR_SERVER.com/your-update",
+  "DownloadLink": "https://t.me/yourchannel",
   "Version": "2.4.4"
 }
