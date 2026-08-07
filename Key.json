@@ -1,7 +1,10 @@
 {
-  "current_key": "new",
-  "visibility": "VISIBLE",
-  "title": "Enter the key baby boi 😏",
-  "description": "Put in the key in me",
-  "button_text": "Push"
+  "Visibility": "VISIBLE",
+  "Title": "Speed-X Update!",
+  "Description": "Update! To get new Features",
+  "MainTextButton": "Update? Click here",
+  "Cancelable": "false",
+  "CancelButtonText": "Cancel",
+  "DownloadLink": "https://YOUR_SERVER.com/your-update",
+  "Version": "2.4.4"
 }
