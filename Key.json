@@ -1,10 +1,12 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "ZENOYTOP TEST",
-  "Description": "If you see this, it's hitting MY server",
-  "MainTextButton": "Update? Click here",
+  "Title": "Zenos Lag Fix",
+  "Description": "Enter your license key to continue",
+  "MainTextButton": "Activate",
   "Cancelable": "false",
-  "CancelButtonText": "Cancel",
+  "CancelButtonText": "Exit",
   "DownloadLink": "https://t.me/yourchannel",
-  "Version": "2.4.4"
+  "Version": "2.4.4",
+  "LicenseRequired": "true",
+  "ValidKeys": ["ZENO", "LAGFIX"]
 }
