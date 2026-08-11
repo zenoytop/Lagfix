@@ -1,12 +1,6 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "Zenos Lag Fix",
-  "Description": "Enter your license key to continue",
-  "MainTextButton": "Activate",
-  "Cancelable": "false",
-  "CancelButtonText": "Exit",
-  "DownloadLink": "https://t.me/yourchannel",
-  "Version": "2.4.4",
   "LicenseRequired": "true",
-  "ValidKeys": ["ZENO", "LAGFIX"]
+  "LicenseKey": "ZENO",
+  "Version": "2.4.4"
 }
